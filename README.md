@@ -1,132 +1,135 @@
-## Hi there 👋
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Lead+Engineer+%40+Pace+AI;Production+LLM+Systems+%7C+500K%2B+Learners" alt="Typing SVG" />
-
+  
 <br/>
 
-`shipping production AI systems`
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3500&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=30&lines=lead+engineer+%40+pace+ai;production+llm+systems+%E2%86%92+500k%2B+learners;cornell+cs+m.eng.+%C2%B7+slac+data+scientist" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/valene-tjong/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
-[![Pace AI](https://img.shields.io/badge/Pace_AI-000000?style=for-the-badge\&logoColor=white)](https://pace.ai)
+<a href="https://www.linkedin.com/in/valene-tjong/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://pace.ai">
+  <img src="https://img.shields.io/badge/pace.ai-58A6FF?style=flat-square&logoColor=white" />
+</a>
+
+<br/><br/>
 
 </div>
 
-<br/>
+&nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I architect backend, ML, and infrastructure systems at **Pace AI** — building the AI platform, enterprise APIs, and cloud systems behind education and workforce programs used by over half a million learners.
 
-<br/>
+Before leading engineering, I was Pace AI's **first ML engineer**, where I designed the initial platform architecture from scratch. I also work part-time at **SLAC National Accelerator Laboratory** on Gaussian Process optimization for semiconductor fabrication.
 
-## `> whoami`
+&nbsp;
 
-Lead Engineer at **Pace AI**, driving architecture across backend systems, LLM infrastructure, and cloud platforms powering large-scale education programs.
+---
 
-Built the company’s initial ML and platform foundations as its first ML engineer, and continue to lead system design for production AI workloads.
+&nbsp;
 
-Also a **Data Scientist at SLAC National Accelerator Laboratory**, working on Gaussian Process optimization for semiconductor fabrication.
+### What I build
 
-**Cornell M.Eng. (AI/ML)** · **Cornell B.A. Physics & CS**
-
-<br/>
-
-## `> systems_i_build`
+&nbsp;
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🧠 LLM & Agent Systems
+**LLM & Agent Infrastructure**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Multi-tenant agent architectures, RAG pipelines, evaluation systems, and feedback loops deployed in real-world learning environments.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 AI Tutoring Platform
-
-Core contributor to an AI tutor used across GED programs, associated with measurable improvements in learner outcomes.
+Multi-tenant agent architectures, custom RAG pipelines, evaluation frameworks, and feedback systems — in production, at scale, for high-stakes learning environments.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### ☁️ Cloud & Infrastructure
+**AI Tutoring Systems**
 
-AWS-based microservices, secure networking, and CI/CD systems supporting production AI services and enterprise deployments.
+Core builder of SydAI, an AI tutor deployed across GED programs and associated with measurable improvements in learner outcomes. Powers tutoring, assessment, and simulation workflows for enterprise clients.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
 
-### 🔬 Research (SLAC)
+**Cloud & Platform Engineering**
 
-Bayesian optimization and Gaussian Process modeling applied to semiconductor process optimization.
+Secure AWS infrastructure, containerized microservices, CI/CD pipelines, and Kubernetes orchestration. Supported enterprise adoption and helped enable ISO certification with zero audit findings.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Research — SLAC National Accelerator Lab**
+
+Bayesian optimization and Gaussian Process modeling for semiconductor process control.
 
 </td>
 </tr>
 </table>
 
-<br/>
+&nbsp;
 
-## `> stack`
+---
+
+&nbsp;
+
+### Stack
+
+&nbsp;
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+&nbsp;&nbsp;
+![OpenAI](https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit–learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/k8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
-<br/>
+&nbsp;
 
-## `> activity`
+---
+
+&nbsp;
+
+### Education
+
+**M.Eng. Computer Science (AI/ML)** · Cornell University
+<br/>
+**B.A. Physics & Computer Science** · Cornell University
+
+&nbsp;
+
+---
+
+&nbsp;
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vtjong&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vtjong&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=vtjong&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8B949E&text_color=C9D1D9&hide_title=true&hide_rank=true" width="420" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vtjong&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" />
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vtjong&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-```
-500K+ learners · production LLM systems · real-world impact
-```
+<img src="https://komarev.com/ghpvc/?username=vtjong&color=8B949E&style=flat-square&label=views" />
 
 </div>
