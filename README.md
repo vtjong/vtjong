@@ -117,19 +117,3 @@ Bayesian optimization and Gaussian Process modeling for semiconductor process co
 **M.Eng. Computer Science (AI/ML)** · Cornell University
 <br/>
 **B.A. Physics & Computer Science** · Cornell University
-
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vtjong&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8B949E&text_color=C9D1D9&hide_title=true&hide_rank=true" width="420" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vtjong&color=8B949E&style=flat-square&label=views" />
-
-</div>
