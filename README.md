@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:valene@paceapp.ai">
   <img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://pace.ai">
+<a href="https://paceapp.ai">
   <img src="https://img.shields.io/badge/pace.ai-58A6FF?style=flat-square&logoColor=white" />
 </a>
 
